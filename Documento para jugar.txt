@@ -1,0 +1,11 @@
+1 Descomprimir archivo
+
+2 Abrir carpeta juego
+
+3 Abrir aplicacion Tanks
+
+4 Controles W S A D para moverse y Boton Izquierdo raton para disparar
+
+5 Para salir del juego Control + Tabulador y cerrar aplicacion 
+
+
